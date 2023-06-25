@@ -1,5 +1,4 @@
-Chapter 3: Identifying Goals and Priorities: Identifying High-Priority Tasks
-============================================================================
+# Identifying High-Priority Tasks
 
 Identifying high-priority tasks is a critical aspect of effective time management. In this chapter, we will explore strategies for identifying high-priority tasks and managing them effectively.
 

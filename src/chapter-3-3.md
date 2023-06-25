@@ -1,5 +1,4 @@
-Chapter 3: Identifying Goals and Priorities: Creating a Task List and Schedule
-==============================================================================
+# Creating a Task List and Schedule
 
 Creating a task list and schedule is a critical aspect of effective time management. In this chapter, we will explore strategies for creating a task list and schedule that align with an individual's goals and priorities.
 

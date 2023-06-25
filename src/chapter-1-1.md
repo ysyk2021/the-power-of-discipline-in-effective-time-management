@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Importance of Discipline in Time Management
-====================================================================
+# Importance of Discipline in Time Management
 
 Effective time management requires discipline and self-control. In this chapter, we will explore the importance of discipline in time management and how it can help individuals achieve their goals and maintain a healthy work-life balance.
 

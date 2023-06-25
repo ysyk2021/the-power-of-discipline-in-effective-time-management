@@ -1,5 +1,4 @@
-Chapter 4: Developing Discipline for Effective Time Management: Strategies for Overcoming Procrastination
-=========================================================================================================
+# Strategies for Overcoming Procrastination
 
 Procrastination is a common challenge to effective time management. In this chapter, we will explore strategies for developing discipline and overcoming procrastination.
 

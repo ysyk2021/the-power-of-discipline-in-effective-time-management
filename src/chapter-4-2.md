@@ -1,5 +1,4 @@
-Chapter 4: Developing Discipline for Effective Time Management: Building Habits and Routines
-============================================================================================
+# Building Habits and Routines
 
 Developing discipline is essential to effective time management. In this chapter, we will explore how building habits and routines can help to develop discipline and improve overall time management.
 

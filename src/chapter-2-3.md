@@ -1,5 +1,4 @@
-Chapter 2: Understanding Time Management: Common Myths about Time Management
-============================================================================
+# Common Myths about Time Management
 
 There are several common myths about time management that can hinder an individual's ability to manage their time effectively. In this chapter, we will explore some of the most common myths about time management.
 

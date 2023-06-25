@@ -1,5 +1,4 @@
-Chapter 4: Developing Discipline for Effective Time Management: Managing Distractions and Interruptions
-=======================================================================================================
+# Managing Distractions and Interruptions
 
 One of the biggest challenges to effective time management is managing distractions and interruptions. In this chapter, we will explore strategies for developing discipline to manage distractions and interruptions and improve overall time management.
 

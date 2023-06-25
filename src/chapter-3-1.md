@@ -1,5 +1,4 @@
-Chapter 3: Identifying Goals and Priorities: Setting SMART Goals
-================================================================
+# Setting SMART Goals
 
 Setting goals is a critical aspect of effective time management. In this chapter, we will explore strategies for setting SMART goals that align with an individual's priorities and help them achieve their objectives.
 
