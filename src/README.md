@@ -10,5 +10,4 @@ Whether you're an entrepreneur, student, or busy professional, "The Power of Dis
 
 Overall, "The Power of Discipline in Effective Time Management" is an essential read for anyone looking to improve their time management skills and enhance their ability to concentrate. By taking the lessons and advice offered in this book and putting them into practice, readers can experience greater success and fulfillment in all areas of life.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
