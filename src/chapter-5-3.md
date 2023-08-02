@@ -1,4 +1,4 @@
-Chapter: Using Time Blocking and Batch Processing
+Using Time Blocking and Batch Processing
 =================================================
 
 In the realm of effective time management, two powerful techniques that can significantly enhance productivity and efficiency are time blocking and batch processing. These methods help individuals optimize their workflow, minimize distractions, and focus on important tasks. In this chapter, we will explore the concepts and benefits of time blocking and batch processing.

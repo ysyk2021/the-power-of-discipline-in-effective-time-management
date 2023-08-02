@@ -1,4 +1,4 @@
-Chapter: Developing Resilience and Coping Skills
+Developing Resilience and Coping Skills
 ================================================
 
 In this chapter, we will explore the importance of resilience and coping skills in effective time management. We will discuss strategies to develop resilience and cope with challenges, setbacks, and stress to optimize productivity and achieve your goals.

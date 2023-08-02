@@ -1,4 +1,4 @@
-Chapter: Setting SMART Goals
+Setting SMART Goals
 ============================
 
 In this chapter, we will delve into the concept of setting SMART goals as a fundamental aspect of effective time management. We will explore the principles behind SMART goals and provide practical guidance on how to implement them in your life.

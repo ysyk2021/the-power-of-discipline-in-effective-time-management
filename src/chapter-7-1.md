@@ -1,4 +1,4 @@
-Chapter: Common Obstacles to Effective Time Management
+Common Obstacles to Effective Time Management
 ======================================================
 
 Despite the numerous benefits of effective time management, many individuals struggle to master this essential skill. Various obstacles can hinder their ability to manage time efficiently and achieve optimal productivity. In this chapter, we will explore some common obstacles to effective time management and discuss strategies to overcome them.

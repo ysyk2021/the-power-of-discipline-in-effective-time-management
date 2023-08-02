@@ -1,4 +1,4 @@
-Chapter: Creating a Task List and Schedule
+Creating a Task List and Schedule
 ==========================================
 
 In this chapter, we will explore the importance of creating a task list and schedule for effective time management. We will learn how to develop a systematic approach to prioritizing tasks, allocating time, and staying organized.

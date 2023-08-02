@@ -1,4 +1,4 @@
-Chapter: Managing Distractions and Interruptions
+Managing Distractions and Interruptions
 ================================================
 
 Distractions and interruptions are common challenges that hinder effective time management. In this chapter, we will explore strategies and techniques to manage and minimize distractions, allowing individuals to maintain focus and optimize their productivity.
