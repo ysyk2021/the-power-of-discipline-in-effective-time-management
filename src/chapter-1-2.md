@@ -3,9 +3,6 @@ Overview of the Book
 
 Welcome to "The Power of Discipline in Effective Time Management!" In this chapter, we will provide an overview of the book, outlining its key themes, goals, and structure.
 
-**Introduction**
-----------------
-
 In today's fast-paced and demanding world, effective time management has become more crucial than ever. With numerous responsibilities, distractions, and competing priorities, it is easy to feel overwhelmed and struggle to accomplish our goals. This book aims to address these challenges by emphasizing the power of discipline in managing time effectively.
 
 **Key Themes**
