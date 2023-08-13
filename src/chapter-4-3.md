@@ -10,7 +10,7 @@ Distractions and interruptions can have a significant impact on our ability to m
 
 ### The Cost of Distractions
 
-Distractions come in various forms, including social media notifications, emails, phone calls, or conversations with colleagues. These interruptions divert attention away from tasks at hand and disrupt concentration. Research suggests that it takes an average of 23 minutes and 15 seconds to regain full focus after being interrupted\[\^1\^\]. Multiply this by the number of distractions encountered throughout the day, and it becomes evident how distractions significantly impact time management.
+Distractions come in various forms, including social media notifications, emails, phone calls, or conversations with colleagues. These interruptions divert attention away from tasks at hand and disrupt concentration. Research suggests that it takes an average of 23 minutes and 15 seconds to regain full focus after being interrupted. Multiply this by the number of distractions encountered throughout the day, and it becomes evident how distractions significantly impact time management.
 
 ### Identifying Common Sources of Distractions
 
@@ -61,5 +61,3 @@ Conclusion
 ----------
 
 Effectively managing distractions and interruptions is crucial for successful time management. By understanding the impact of distractions, identifying common sources, and implementing strategies like creating a distraction-free environment, setting clear boundaries, time blocking, prioritizing tasks, and practicing mindfulness and self-discipline, individuals can regain control over their time and enhance productivity. By minimizing distractions and interruptions, individuals can optimize their focus, achieve goals more efficiently, and ultimately reap the benefits of effective time management.
-
-\[\^1\^\]: Mark, G., Gonzalez, V., \& Harris, J. (2005). No task left behind? Examining the nature of fragmented work. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 321-330). doi:10.1145/1054972.1055017

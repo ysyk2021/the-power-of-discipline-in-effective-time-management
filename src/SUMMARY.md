@@ -25,7 +25,6 @@
   - [Common Obstacles to Effective Time Management](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Time Management](chapter-8.md)
-  - [Real-life Examples of Individuals who have Successfully Managed their Time Effectively with Discipline](chapter-8-1.md)
 - [Chapter 9: Integrating Time Management with Personal Growth](chapter-9.md)
   - [Fostering Self-discipline and Self-awareness](chapter-9-1.md)
   - [Developing Resilience and Coping Skills](chapter-9-2.md)

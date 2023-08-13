@@ -10,7 +10,7 @@ Habits are powerful tools that enable individuals to navigate through daily task
 
 ### The Habit Loop
 
-The habit loop consists of three key components: the cue, the routine, and the reward\[\^1\^\]. Understanding this loop can help individuals develop productive habits effectively:
+The habit loop consists of three key components: the cue, the routine, and the reward. Understanding this loop can help individuals develop productive habits effectively:
 
 * **Cue**: A cue triggers the start of a habit. It can be a specific time, location, emotional state, or an event. Identifying the cues that precede desired habits is essential for habit formation.
 
@@ -55,5 +55,3 @@ Conclusion
 ----------
 
 Building habits and routines is a powerful strategy for effective time management. By understanding the habit loop, identifying keystone habits, starting small, setting SMART goals, using habit stacking, tracking progress, creating a daily routine, and practicing self-reflection, individuals can develop habits that optimize their time, increase productivity, and make consistent progress towards their goals. With dedication and perseverance, positive habits can become ingrained, leading to lasting improvements in time management and overall success.
-
-\[\^1\^\]: Duhigg, C. (2012). *The Power of Habit: Why We Do What We Do in Life and Business*. Random House Trade Paperbacks.

@@ -21,7 +21,7 @@ Contrary to popular belief, time itself cannot be managed. Time is a constant re
 Myth 4: **Multitasking Improves Productivity**
 ----------------------------------------------
 
-Multitasking is often seen as a desirable skill, promising increased productivity. However, research has shown that multitasking can actually decrease efficiency and quality of work\[\^1\^\]. Attempting to do multiple tasks simultaneously leads to divided attention, reduced focus, and increased errors. It is more effective to concentrate on one task at a time and give it our full attention.
+Multitasking is often seen as a desirable skill, promising increased productivity. However, research has shown that multitasking can actually decrease efficiency and quality of work. Attempting to do multiple tasks simultaneously leads to divided attention, reduced focus, and increased errors. It is more effective to concentrate on one task at a time and give it our full attention.
 
 Myth 5: **Time Management Requires a Strict Schedule**
 ------------------------------------------------------
@@ -43,4 +43,3 @@ Conclusion
 
 By debunking these common myths about time management, we can gain a clearer understanding of its principles and practices. Effective time management is not merely about doing more tasks or being busy all the time, but about making thoughtful choices, prioritizing, and achieving meaningful outcomes. It requires managing ourselves, avoiding multitasking, finding the right balance of structure and flexibility, and acknowledging that time management is a personal journey. By dispelling these myths, we can develop a more realistic and effective approach to managing our time.
 
-\[\^1\^\]: Rubinstein, J. S., Meyer, D. E., \& Evans, J. E. (2001). Executive Control of Cognitive Processes in Task Switching. *Journal of Experimental Psychology: Human Perception and Performance, 27*(4), 763--797.
