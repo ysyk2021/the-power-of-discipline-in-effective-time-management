@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Effective Time Management
-============================================================
 
 Effective time management requires discipline, focus, and persistence. However, there are many common obstacles that can interfere with one's ability to manage time effectively. In this chapter, we will explore common obstacles to effective time management and strategies for overcoming them.
 

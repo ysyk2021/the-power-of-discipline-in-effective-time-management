@@ -1,5 +1,3 @@
-Chapter 4: Developing Discipline for Effective Time Management
-==============================================================
 
 Developing discipline is essential to effective time management. In this chapter, we will explore strategies for developing discipline and improving time management.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective time management is a critical skill that can help individuals achieve their goals and maintain a healthy work-life balance. In this chapter, we will explore the importance of discipline in time management and provide an overview of the book.
 

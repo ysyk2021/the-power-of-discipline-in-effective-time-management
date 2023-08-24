@@ -1,5 +1,3 @@
-Chapter 8: Case Studies of Successful Time Management
-=====================================================
 
 In this chapter, we will explore real-life examples of individuals who have demonstrated exceptional time management skills through discipline. These stories serve as inspiration and provide valuable insights into the strategies they employed to achieve success.
 

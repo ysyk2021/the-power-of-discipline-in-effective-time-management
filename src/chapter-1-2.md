@@ -1,5 +1,3 @@
-Overview of the Book
-=============================
 
 Welcome to "The Power of Discipline in Effective Time Management!" In this chapter, we will provide an overview of the book, outlining its key themes, goals, and structure.
 

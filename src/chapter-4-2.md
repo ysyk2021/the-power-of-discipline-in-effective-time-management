@@ -1,5 +1,3 @@
-Building Habits and Routines
-=====================================
 
 In the pursuit of effective time management, building habits and routines plays a crucial role. Habits are automatic behaviors that can greatly enhance productivity and help individuals make the most of their time. In this chapter, we will explore the importance of habits and routines in time management and discuss strategies for developing them.
 

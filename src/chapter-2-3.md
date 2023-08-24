@@ -1,5 +1,3 @@
-Common Myths About Time Management
-===========================================
 
 Time management is a critical skill that can significantly impact productivity and success. However, there are several common myths and misconceptions surrounding time management that can hinder its effectiveness. In this chapter, we will debunk these myths and provide a clearer understanding of time management principles.
 

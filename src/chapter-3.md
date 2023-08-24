@@ -1,5 +1,3 @@
-Chapter 3: Identifying Goals and Priorities
-===========================================
 
 Identifying goals and priorities is a critical aspect of effective time management. In this chapter, we will explore strategies for setting SMART goals, identifying high-priority tasks, and creating a task list and schedule that align with an individual's goals and values.
 

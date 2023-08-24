@@ -1,5 +1,3 @@
-Identifying High-Priority Tasks
-========================================
 
 In this chapter, we will explore the importance of identifying high-priority tasks in effective time management. We will learn strategies and techniques for distinguishing between urgent and important tasks, setting priorities, and optimizing productivity.
 

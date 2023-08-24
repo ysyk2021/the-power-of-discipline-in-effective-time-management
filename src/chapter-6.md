@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Time Management
-===============================================
 
 Measuring success is an important component of effective time management. In this chapter, we will explore key performance indicators (KPIs) for measuring success in time management and qualitative and quantitative methods for evaluation.
 

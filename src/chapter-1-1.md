@@ -1,5 +1,3 @@
-Importance of Discipline in Time Management
-====================================================
 
 Discipline plays a crucial role in effective time management. It is the foundation upon which successful time management practices are built. In this chapter, we will explore the significance of discipline and how it contributes to maximizing productivity and achieving goals.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 "The Power of Discipline in Effective Time Management" is a comprehensive guide to improving productivity and managing time effectively. This book highlights the importance of discipline in achieving goals and provides practical tips and techniques for developing mental discipline.
 
