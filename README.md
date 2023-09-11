@@ -1,3 +1,6 @@
+# The Power of Discipline in Effective Time Management
+
+Book Link: [https://zhengpublishing.com/the-power-of-discipline-in-effective-time-management/](https://zhengpublishing.com/the-power-of-discipline-in-effective-time-management/)
 
 "The Power of Discipline in Effective Time Management" is a comprehensive guide to improving productivity and managing time effectively. This book highlights the importance of discipline in achieving goals and provides practical tips and techniques for developing mental discipline.
 
